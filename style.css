@@ -1,3 +1,8 @@
+body.scroll_lock {
+  overflow: hidden;
+  height: 100%;
+}
+
 button {
   border: 0;
   outline: none;
